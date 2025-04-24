@@ -1,0 +1,1025 @@
+id,language,snippet,description
+1,JavaScript,"// Example 1: write to a file
+console.log('Example 1');",Auto-generated snippet 1 demonstrating how to write to a file in JavaScript
+2,PHP,"<?php
+// Example 2: use recursion
+echo 'Example 2';
+?>",Auto-generated snippet 2 demonstrating how to use recursion in PHP
+3,TypeScript,"// Example 3: iterate over a list in TypeScript
+// code placeholder",Auto-generated snippet 3 demonstrating how to iterate over a list in TypeScript
+4,C,"/* Example 4: perform HTTP POST */
+printf(""Example 4\n"");",Auto-generated snippet 4 demonstrating how to perform HTTP POST in C
+5,C#,"// Example 5: format a string in C#
+// code placeholder",Auto-generated snippet 5 demonstrating how to format a string in C#
+6,CSS,"// Example 6: handle exception in CSS
+// code placeholder",Auto-generated snippet 6 demonstrating how to handle exception in CSS
+7,R,"// Example 7: compute factorial in R
+// code placeholder",Auto-generated snippet 7 demonstrating how to compute factorial in R
+8,Perl,"// Example 8: create an array in Perl
+// code placeholder",Auto-generated snippet 8 demonstrating how to create an array in Perl
+9,JSON,"// Example 9: generate random numbers in JSON
+// code placeholder",Auto-generated snippet 9 demonstrating how to generate random numbers in JSON
+10,Clojure,"// Example 10: send HTTP request in Clojure
+// code placeholder",Auto-generated snippet 10 demonstrating how to send HTTP request in Clojure
+11,SQL,"// Example 11: generate random numbers in SQL
+// code placeholder",Auto-generated snippet 11 demonstrating how to generate random numbers in SQL
+12,Bash,"// Example 12: write to a file in Bash
+// code placeholder",Auto-generated snippet 12 demonstrating how to write to a file in Bash
+13,Rust,"// Example 13: format a string
+println!(""Example 13"");",Auto-generated snippet 13 demonstrating how to format a string in Rust
+14,Rust,"// Example 14: send HTTP request
+println!(""Example 14"");",Auto-generated snippet 14 demonstrating how to send HTTP request in Rust
+15,Lua,"// Example 15: log an error in Lua
+// code placeholder",Auto-generated snippet 15 demonstrating how to log an error in Lua
+16,TypeScript,"// Example 16: render HTML in TypeScript
+// code placeholder",Auto-generated snippet 16 demonstrating how to render HTML in TypeScript
+17,Haskell,"// Example 17: define a function in Haskell
+// code placeholder",Auto-generated snippet 17 demonstrating how to define a function in Haskell
+18,HTML,"// Example 18: serialize to XML in HTML
+// code placeholder",Auto-generated snippet 18 demonstrating how to serialize to XML in HTML
+19,HTML,"// Example 19: render HTML in HTML
+// code placeholder",Auto-generated snippet 19 demonstrating how to render HTML in HTML
+20,Lua,"// Example 20: compute factorial in Lua
+// code placeholder",Auto-generated snippet 20 demonstrating how to compute factorial in Lua
+21,Rust,"// Example 21: create an array
+println!(""Example 21"");",Auto-generated snippet 21 demonstrating how to create an array in Rust
+22,Ruby,"# Example 22: convert a type
+puts 'Example 22'",Auto-generated snippet 22 demonstrating how to convert a type in Ruby
+23,Rust,"// Example 23: iterate over a list
+println!(""Example 23"");",Auto-generated snippet 23 demonstrating how to iterate over a list in Rust
+24,Lua,"// Example 24: connect to a database in Lua
+// code placeholder",Auto-generated snippet 24 demonstrating how to connect to a database in Lua
+25,HTML,"// Example 25: sort a list in HTML
+// code placeholder",Auto-generated snippet 25 demonstrating how to sort a list in HTML
+26,Julia,"// Example 26: use regex in Julia
+// code placeholder",Auto-generated snippet 26 demonstrating how to use regex in Julia
+27,Java,"// Example 27: sort a list
+System.out.println(""Example 27"");",Auto-generated snippet 27 demonstrating how to sort a list in Java
+28,Go,"// Example 28: write to a file
+fmt.Println(""Example 28"")",Auto-generated snippet 28 demonstrating how to write to a file in Go
+29,Python,"# Example 29: use regex
+print('Example 29')",Auto-generated snippet 29 demonstrating how to use regex in Python
+30,MATLAB,"// Example 30: log an error in MATLAB
+// code placeholder",Auto-generated snippet 30 demonstrating how to log an error in MATLAB
+31,Java,"// Example 31: perform HTTP POST
+System.out.println(""Example 31"");",Auto-generated snippet 31 demonstrating how to perform HTTP POST in Java
+32,Haskell,"// Example 32: sort a list in Haskell
+// code placeholder",Auto-generated snippet 32 demonstrating how to sort a list in Haskell
+33,C++,"// Example 33: write to a file
+std::cout << ""Example 33"" << std::endl;",Auto-generated snippet 33 demonstrating how to write to a file in C++
+34,CSS,"// Example 34: define a function in CSS
+// code placeholder",Auto-generated snippet 34 demonstrating how to define a function in CSS
+35,JavaScript,"// Example 35: compute factorial
+console.log('Example 35');",Auto-generated snippet 35 demonstrating how to compute factorial in JavaScript
+36,Haskell,"// Example 36: parse JSON in Haskell
+// code placeholder",Auto-generated snippet 36 demonstrating how to parse JSON in Haskell
+37,Elixir,"// Example 37: write to a file in Elixir
+// code placeholder",Auto-generated snippet 37 demonstrating how to write to a file in Elixir
+38,C#,"// Example 38: read a file in C#
+// code placeholder",Auto-generated snippet 38 demonstrating how to read a file in C#
+39,C,"/* Example 39: format a string */
+printf(""Example 39\n"");",Auto-generated snippet 39 demonstrating how to format a string in C
+40,JavaScript,"// Example 40: write to a file
+console.log('Example 40');",Auto-generated snippet 40 demonstrating how to write to a file in JavaScript
+41,PowerShell,"// Example 41: parse JSON in PowerShell
+// code placeholder",Auto-generated snippet 41 demonstrating how to parse JSON in PowerShell
+42,Java,"// Example 42: use regex
+System.out.println(""Example 42"");",Auto-generated snippet 42 demonstrating how to use regex in Java
+43,Dockerfile,"// Example 43: connect to a database in Dockerfile
+// code placeholder",Auto-generated snippet 43 demonstrating how to connect to a database in Dockerfile
+44,Swift,"// Example 44: read a file
+print(""Example 44"")",Auto-generated snippet 44 demonstrating how to read a file in Swift
+45,Haskell,"// Example 45: generate random numbers in Haskell
+// code placeholder",Auto-generated snippet 45 demonstrating how to generate random numbers in Haskell
+46,YAML,"// Example 46: log an error in YAML
+// code placeholder",Auto-generated snippet 46 demonstrating how to log an error in YAML
+47,C#,"// Example 47: log an error in C#
+// code placeholder",Auto-generated snippet 47 demonstrating how to log an error in C#
+48,JSON,"// Example 48: handle exception in JSON
+// code placeholder",Auto-generated snippet 48 demonstrating how to handle exception in JSON
+49,C,"/* Example 49: compute factorial */
+printf(""Example 49\n"");",Auto-generated snippet 49 demonstrating how to compute factorial in C
+50,Dockerfile,"// Example 50: parse JSON in Dockerfile
+// code placeholder",Auto-generated snippet 50 demonstrating how to parse JSON in Dockerfile
+51,Dockerfile,"// Example 51: format a string in Dockerfile
+// code placeholder",Auto-generated snippet 51 demonstrating how to format a string in Dockerfile
+52,SQL,"// Example 52: format a string in SQL
+// code placeholder",Auto-generated snippet 52 demonstrating how to format a string in SQL
+53,SQL,"// Example 53: render HTML in SQL
+// code placeholder",Auto-generated snippet 53 demonstrating how to render HTML in SQL
+54,SQL,"// Example 54: perform HTTP POST in SQL
+// code placeholder",Auto-generated snippet 54 demonstrating how to perform HTTP POST in SQL
+55,Scala,"// Example 55: render HTML in Scala
+// code placeholder",Auto-generated snippet 55 demonstrating how to render HTML in Scala
+56,Julia,"// Example 56: generate random numbers in Julia
+// code placeholder",Auto-generated snippet 56 demonstrating how to generate random numbers in Julia
+57,MATLAB,"// Example 57: create an array in MATLAB
+// code placeholder",Auto-generated snippet 57 demonstrating how to create an array in MATLAB
+58,Dockerfile,"// Example 58: use recursion in Dockerfile
+// code placeholder",Auto-generated snippet 58 demonstrating how to use recursion in Dockerfile
+59,TypeScript,"// Example 59: send HTTP request in TypeScript
+// code placeholder",Auto-generated snippet 59 demonstrating how to send HTTP request in TypeScript
+60,R,"// Example 60: sort a list in R
+// code placeholder",Auto-generated snippet 60 demonstrating how to sort a list in R
+61,Lua,"// Example 61: compute factorial in Lua
+// code placeholder",Auto-generated snippet 61 demonstrating how to compute factorial in Lua
+62,Bash,"// Example 62: handle exception in Bash
+// code placeholder",Auto-generated snippet 62 demonstrating how to handle exception in Bash
+63,SQL,"// Example 63: parse JSON in SQL
+// code placeholder",Auto-generated snippet 63 demonstrating how to parse JSON in SQL
+64,HTML,"// Example 64: parse JSON in HTML
+// code placeholder",Auto-generated snippet 64 demonstrating how to parse JSON in HTML
+65,PowerShell,"// Example 65: compute factorial in PowerShell
+// code placeholder",Auto-generated snippet 65 demonstrating how to compute factorial in PowerShell
+66,C#,"// Example 66: parse JSON in C#
+// code placeholder",Auto-generated snippet 66 demonstrating how to parse JSON in C#
+67,Haskell,"// Example 67: render HTML in Haskell
+// code placeholder",Auto-generated snippet 67 demonstrating how to render HTML in Haskell
+68,PowerShell,"// Example 68: sort a list in PowerShell
+// code placeholder",Auto-generated snippet 68 demonstrating how to sort a list in PowerShell
+69,CSS,"// Example 69: use regex in CSS
+// code placeholder",Auto-generated snippet 69 demonstrating how to use regex in CSS
+70,Swift,"// Example 70: serialize to XML
+print(""Example 70"")",Auto-generated snippet 70 demonstrating how to serialize to XML in Swift
+71,Rust,"// Example 71: define a function
+println!(""Example 71"");",Auto-generated snippet 71 demonstrating how to define a function in Rust
+72,Elixir,"// Example 72: define a function in Elixir
+// code placeholder",Auto-generated snippet 72 demonstrating how to define a function in Elixir
+73,JavaScript,"// Example 73: convert a type
+console.log('Example 73');",Auto-generated snippet 73 demonstrating how to convert a type in JavaScript
+74,Bash,"// Example 74: generate random numbers in Bash
+// code placeholder",Auto-generated snippet 74 demonstrating how to generate random numbers in Bash
+75,CSS,"// Example 75: define a function in CSS
+// code placeholder",Auto-generated snippet 75 demonstrating how to define a function in CSS
+76,PowerShell,"// Example 76: define a function in PowerShell
+// code placeholder",Auto-generated snippet 76 demonstrating how to define a function in PowerShell
+77,Clojure,"// Example 77: iterate over a list in Clojure
+// code placeholder",Auto-generated snippet 77 demonstrating how to iterate over a list in Clojure
+78,MATLAB,"// Example 78: iterate over a list in MATLAB
+// code placeholder",Auto-generated snippet 78 demonstrating how to iterate over a list in MATLAB
+79,TypeScript,"// Example 79: generate random numbers in TypeScript
+// code placeholder",Auto-generated snippet 79 demonstrating how to generate random numbers in TypeScript
+80,Haskell,"// Example 80: send HTTP request in Haskell
+// code placeholder",Auto-generated snippet 80 demonstrating how to send HTTP request in Haskell
+81,PowerShell,"// Example 81: define a function in PowerShell
+// code placeholder",Auto-generated snippet 81 demonstrating how to define a function in PowerShell
+82,Perl,"// Example 82: use regex in Perl
+// code placeholder",Auto-generated snippet 82 demonstrating how to use regex in Perl
+83,C#,"// Example 83: convert a type in C#
+// code placeholder",Auto-generated snippet 83 demonstrating how to convert a type in C#
+84,YAML,"// Example 84: write to a file in YAML
+// code placeholder",Auto-generated snippet 84 demonstrating how to write to a file in YAML
+85,Julia,"// Example 85: convert a type in Julia
+// code placeholder",Auto-generated snippet 85 demonstrating how to convert a type in Julia
+86,Rust,"// Example 86: serialize to XML
+println!(""Example 86"");",Auto-generated snippet 86 demonstrating how to serialize to XML in Rust
+87,Go,"// Example 87: parse JSON
+fmt.Println(""Example 87"")",Auto-generated snippet 87 demonstrating how to parse JSON in Go
+88,Bash,"// Example 88: log an error in Bash
+// code placeholder",Auto-generated snippet 88 demonstrating how to log an error in Bash
+89,Scala,"// Example 89: sort a list in Scala
+// code placeholder",Auto-generated snippet 89 demonstrating how to sort a list in Scala
+90,Julia,"// Example 90: use regex in Julia
+// code placeholder",Auto-generated snippet 90 demonstrating how to use regex in Julia
+91,TypeScript,"// Example 91: read a file in TypeScript
+// code placeholder",Auto-generated snippet 91 demonstrating how to read a file in TypeScript
+92,R,"// Example 92: log an error in R
+// code placeholder",Auto-generated snippet 92 demonstrating how to log an error in R
+93,C#,"// Example 93: use regex in C#
+// code placeholder",Auto-generated snippet 93 demonstrating how to use regex in C#
+94,CSS,"// Example 94: iterate over a list in CSS
+// code placeholder",Auto-generated snippet 94 demonstrating how to iterate over a list in CSS
+95,Kotlin,"// Example 95: handle exception
+println(""Example 95"")",Auto-generated snippet 95 demonstrating how to handle exception in Kotlin
+96,MATLAB,"// Example 96: compute factorial in MATLAB
+// code placeholder",Auto-generated snippet 96 demonstrating how to compute factorial in MATLAB
+97,Clojure,"// Example 97: format a string in Clojure
+// code placeholder",Auto-generated snippet 97 demonstrating how to format a string in Clojure
+98,Python,"# Example 98: define a function
+print('Example 98')",Auto-generated snippet 98 demonstrating how to define a function in Python
+99,Kotlin,"// Example 99: define a function
+println(""Example 99"")",Auto-generated snippet 99 demonstrating how to define a function in Kotlin
+100,C#,"// Example 100: handle exception in C#
+// code placeholder",Auto-generated snippet 100 demonstrating how to handle exception in C#
+101,Dockerfile,"// Example 101: compute factorial in Dockerfile
+// code placeholder",Auto-generated snippet 101 demonstrating how to compute factorial in Dockerfile
+102,Scala,"// Example 102: read a file in Scala
+// code placeholder",Auto-generated snippet 102 demonstrating how to read a file in Scala
+103,C++,"// Example 103: read a file
+std::cout << ""Example 103"" << std::endl;",Auto-generated snippet 103 demonstrating how to read a file in C++
+104,JSON,"// Example 104: read a file in JSON
+// code placeholder",Auto-generated snippet 104 demonstrating how to read a file in JSON
+105,Java,"// Example 105: perform HTTP POST
+System.out.println(""Example 105"");",Auto-generated snippet 105 demonstrating how to perform HTTP POST in Java
+106,PHP,"<?php
+// Example 106: write to a file
+echo 'Example 106';
+?>",Auto-generated snippet 106 demonstrating how to write to a file in PHP
+107,Bash,"// Example 107: convert a type in Bash
+// code placeholder",Auto-generated snippet 107 demonstrating how to convert a type in Bash
+108,Perl,"// Example 108: use recursion in Perl
+// code placeholder",Auto-generated snippet 108 demonstrating how to use recursion in Perl
+109,TypeScript,"// Example 109: sort a list in TypeScript
+// code placeholder",Auto-generated snippet 109 demonstrating how to sort a list in TypeScript
+110,Ruby,"# Example 110: compute factorial
+puts 'Example 110'",Auto-generated snippet 110 demonstrating how to compute factorial in Ruby
+111,Python,"# Example 111: send HTTP request
+print('Example 111')",Auto-generated snippet 111 demonstrating how to send HTTP request in Python
+112,Java,"// Example 112: log an error
+System.out.println(""Example 112"");",Auto-generated snippet 112 demonstrating how to log an error in Java
+113,Julia,"// Example 113: handle exception in Julia
+// code placeholder",Auto-generated snippet 113 demonstrating how to handle exception in Julia
+114,JavaScript,"// Example 114: parse JSON
+console.log('Example 114');",Auto-generated snippet 114 demonstrating how to parse JSON in JavaScript
+115,HTML,"// Example 115: connect to a database in HTML
+// code placeholder",Auto-generated snippet 115 demonstrating how to connect to a database in HTML
+116,Scala,"// Example 116: render HTML in Scala
+// code placeholder",Auto-generated snippet 116 demonstrating how to render HTML in Scala
+117,CSS,"// Example 117: create an array in CSS
+// code placeholder",Auto-generated snippet 117 demonstrating how to create an array in CSS
+118,C#,"// Example 118: render HTML in C#
+// code placeholder",Auto-generated snippet 118 demonstrating how to render HTML in C#
+119,PHP,"<?php
+// Example 119: connect to a database
+echo 'Example 119';
+?>",Auto-generated snippet 119 demonstrating how to connect to a database in PHP
+120,SQL,"// Example 120: render HTML in SQL
+// code placeholder",Auto-generated snippet 120 demonstrating how to render HTML in SQL
+121,PowerShell,"// Example 121: use recursion in PowerShell
+// code placeholder",Auto-generated snippet 121 demonstrating how to use recursion in PowerShell
+122,SQL,"// Example 122: format a string in SQL
+// code placeholder",Auto-generated snippet 122 demonstrating how to format a string in SQL
+123,C,"/* Example 123: perform HTTP POST */
+printf(""Example 123\n"");",Auto-generated snippet 123 demonstrating how to perform HTTP POST in C
+124,Go,"// Example 124: serialize to XML
+fmt.Println(""Example 124"")",Auto-generated snippet 124 demonstrating how to serialize to XML in Go
+125,R,"// Example 125: write to a file in R
+// code placeholder",Auto-generated snippet 125 demonstrating how to write to a file in R
+126,Swift,"// Example 126: use regex
+print(""Example 126"")",Auto-generated snippet 126 demonstrating how to use regex in Swift
+127,PHP,"<?php
+// Example 127: send HTTP request
+echo 'Example 127';
+?>",Auto-generated snippet 127 demonstrating how to send HTTP request in PHP
+128,PowerShell,"// Example 128: use regex in PowerShell
+// code placeholder",Auto-generated snippet 128 demonstrating how to use regex in PowerShell
+129,CSS,"// Example 129: serialize to XML in CSS
+// code placeholder",Auto-generated snippet 129 demonstrating how to serialize to XML in CSS
+130,CSS,"// Example 130: sort a list in CSS
+// code placeholder",Auto-generated snippet 130 demonstrating how to sort a list in CSS
+131,HTML,"// Example 131: define a function in HTML
+// code placeholder",Auto-generated snippet 131 demonstrating how to define a function in HTML
+132,Lua,"// Example 132: format a string in Lua
+// code placeholder",Auto-generated snippet 132 demonstrating how to format a string in Lua
+133,Julia,"// Example 133: compute factorial in Julia
+// code placeholder",Auto-generated snippet 133 demonstrating how to compute factorial in Julia
+134,Bash,"// Example 134: use regex in Bash
+// code placeholder",Auto-generated snippet 134 demonstrating how to use regex in Bash
+135,YAML,"// Example 135: convert a type in YAML
+// code placeholder",Auto-generated snippet 135 demonstrating how to convert a type in YAML
+136,JSON,"// Example 136: sort a list in JSON
+// code placeholder",Auto-generated snippet 136 demonstrating how to sort a list in JSON
+137,SQL,"// Example 137: iterate over a list in SQL
+// code placeholder",Auto-generated snippet 137 demonstrating how to iterate over a list in SQL
+138,YAML,"// Example 138: serialize to XML in YAML
+// code placeholder",Auto-generated snippet 138 demonstrating how to serialize to XML in YAML
+139,Go,"// Example 139: compute factorial
+fmt.Println(""Example 139"")",Auto-generated snippet 139 demonstrating how to compute factorial in Go
+140,Haskell,"// Example 140: format a string in Haskell
+// code placeholder",Auto-generated snippet 140 demonstrating how to format a string in Haskell
+141,C,"/* Example 141: handle exception */
+printf(""Example 141\n"");",Auto-generated snippet 141 demonstrating how to handle exception in C
+142,Java,"// Example 142: serialize to XML
+System.out.println(""Example 142"");",Auto-generated snippet 142 demonstrating how to serialize to XML in Java
+143,Lua,"// Example 143: parse JSON in Lua
+// code placeholder",Auto-generated snippet 143 demonstrating how to parse JSON in Lua
+144,Go,"// Example 144: send HTTP request
+fmt.Println(""Example 144"")",Auto-generated snippet 144 demonstrating how to send HTTP request in Go
+145,CSS,"// Example 145: convert a type in CSS
+// code placeholder",Auto-generated snippet 145 demonstrating how to convert a type in CSS
+146,Python,"# Example 146: serialize to XML
+print('Example 146')",Auto-generated snippet 146 demonstrating how to serialize to XML in Python
+147,Elixir,"// Example 147: define a function in Elixir
+// code placeholder",Auto-generated snippet 147 demonstrating how to define a function in Elixir
+148,MATLAB,"// Example 148: iterate over a list in MATLAB
+// code placeholder",Auto-generated snippet 148 demonstrating how to iterate over a list in MATLAB
+149,TypeScript,"// Example 149: define a function in TypeScript
+// code placeholder",Auto-generated snippet 149 demonstrating how to define a function in TypeScript
+150,Perl,"// Example 150: use recursion in Perl
+// code placeholder",Auto-generated snippet 150 demonstrating how to use recursion in Perl
+151,Go,"// Example 151: sort a list
+fmt.Println(""Example 151"")",Auto-generated snippet 151 demonstrating how to sort a list in Go
+152,Haskell,"// Example 152: convert a type in Haskell
+// code placeholder",Auto-generated snippet 152 demonstrating how to convert a type in Haskell
+153,CSS,"// Example 153: define a function in CSS
+// code placeholder",Auto-generated snippet 153 demonstrating how to define a function in CSS
+154,Scala,"// Example 154: parse JSON in Scala
+// code placeholder",Auto-generated snippet 154 demonstrating how to parse JSON in Scala
+155,JavaScript,"// Example 155: convert a type
+console.log('Example 155');",Auto-generated snippet 155 demonstrating how to convert a type in JavaScript
+156,Go,"// Example 156: generate random numbers
+fmt.Println(""Example 156"")",Auto-generated snippet 156 demonstrating how to generate random numbers in Go
+157,CSS,"// Example 157: convert a type in CSS
+// code placeholder",Auto-generated snippet 157 demonstrating how to convert a type in CSS
+158,PHP,"<?php
+// Example 158: compute factorial
+echo 'Example 158';
+?>",Auto-generated snippet 158 demonstrating how to compute factorial in PHP
+159,Lua,"// Example 159: handle exception in Lua
+// code placeholder",Auto-generated snippet 159 demonstrating how to handle exception in Lua
+160,Scala,"// Example 160: handle exception in Scala
+// code placeholder",Auto-generated snippet 160 demonstrating how to handle exception in Scala
+161,HTML,"// Example 161: format a string in HTML
+// code placeholder",Auto-generated snippet 161 demonstrating how to format a string in HTML
+162,Java,"// Example 162: generate random numbers
+System.out.println(""Example 162"");",Auto-generated snippet 162 demonstrating how to generate random numbers in Java
+163,HTML,"// Example 163: write to a file in HTML
+// code placeholder",Auto-generated snippet 163 demonstrating how to write to a file in HTML
+164,Haskell,"// Example 164: perform HTTP POST in Haskell
+// code placeholder",Auto-generated snippet 164 demonstrating how to perform HTTP POST in Haskell
+165,C#,"// Example 165: create an array in C#
+// code placeholder",Auto-generated snippet 165 demonstrating how to create an array in C#
+166,HTML,"// Example 166: write to a file in HTML
+// code placeholder",Auto-generated snippet 166 demonstrating how to write to a file in HTML
+167,Lua,"// Example 167: sort a list in Lua
+// code placeholder",Auto-generated snippet 167 demonstrating how to sort a list in Lua
+168,Haskell,"// Example 168: sort a list in Haskell
+// code placeholder",Auto-generated snippet 168 demonstrating how to sort a list in Haskell
+169,Swift,"// Example 169: iterate over a list
+print(""Example 169"")",Auto-generated snippet 169 demonstrating how to iterate over a list in Swift
+170,Scala,"// Example 170: connect to a database in Scala
+// code placeholder",Auto-generated snippet 170 demonstrating how to connect to a database in Scala
+171,JSON,"// Example 171: define a function in JSON
+// code placeholder",Auto-generated snippet 171 demonstrating how to define a function in JSON
+172,HTML,"// Example 172: compute factorial in HTML
+// code placeholder",Auto-generated snippet 172 demonstrating how to compute factorial in HTML
+173,C#,"// Example 173: use recursion in C#
+// code placeholder",Auto-generated snippet 173 demonstrating how to use recursion in C#
+174,Julia,"// Example 174: compute factorial in Julia
+// code placeholder",Auto-generated snippet 174 demonstrating how to compute factorial in Julia
+175,Go,"// Example 175: read a file
+fmt.Println(""Example 175"")",Auto-generated snippet 175 demonstrating how to read a file in Go
+176,Lua,"// Example 176: connect to a database in Lua
+// code placeholder",Auto-generated snippet 176 demonstrating how to connect to a database in Lua
+177,Kotlin,"// Example 177: generate random numbers
+println(""Example 177"")",Auto-generated snippet 177 demonstrating how to generate random numbers in Kotlin
+178,C#,"// Example 178: log an error in C#
+// code placeholder",Auto-generated snippet 178 demonstrating how to log an error in C#
+179,HTML,"// Example 179: use regex in HTML
+// code placeholder",Auto-generated snippet 179 demonstrating how to use regex in HTML
+180,JSON,"// Example 180: compute factorial in JSON
+// code placeholder",Auto-generated snippet 180 demonstrating how to compute factorial in JSON
+181,Go,"// Example 181: perform HTTP POST
+fmt.Println(""Example 181"")",Auto-generated snippet 181 demonstrating how to perform HTTP POST in Go
+182,YAML,"// Example 182: log an error in YAML
+// code placeholder",Auto-generated snippet 182 demonstrating how to log an error in YAML
+183,SQL,"// Example 183: compute factorial in SQL
+// code placeholder",Auto-generated snippet 183 demonstrating how to compute factorial in SQL
+184,C++,"// Example 184: compute factorial
+std::cout << ""Example 184"" << std::endl;",Auto-generated snippet 184 demonstrating how to compute factorial in C++
+185,SQL,"// Example 185: use regex in SQL
+// code placeholder",Auto-generated snippet 185 demonstrating how to use regex in SQL
+186,Lua,"// Example 186: convert a type in Lua
+// code placeholder",Auto-generated snippet 186 demonstrating how to convert a type in Lua
+187,Python,"# Example 187: use regex
+print('Example 187')",Auto-generated snippet 187 demonstrating how to use regex in Python
+188,C#,"// Example 188: perform HTTP POST in C#
+// code placeholder",Auto-generated snippet 188 demonstrating how to perform HTTP POST in C#
+189,YAML,"// Example 189: send HTTP request in YAML
+// code placeholder",Auto-generated snippet 189 demonstrating how to send HTTP request in YAML
+190,Python,"# Example 190: sort a list
+print('Example 190')",Auto-generated snippet 190 demonstrating how to sort a list in Python
+191,Dockerfile,"// Example 191: perform HTTP POST in Dockerfile
+// code placeholder",Auto-generated snippet 191 demonstrating how to perform HTTP POST in Dockerfile
+192,JavaScript,"// Example 192: perform HTTP POST
+console.log('Example 192');",Auto-generated snippet 192 demonstrating how to perform HTTP POST in JavaScript
+193,Clojure,"// Example 193: sort a list in Clojure
+// code placeholder",Auto-generated snippet 193 demonstrating how to sort a list in Clojure
+194,SQL,"// Example 194: define a function in SQL
+// code placeholder",Auto-generated snippet 194 demonstrating how to define a function in SQL
+195,Swift,"// Example 195: send HTTP request
+print(""Example 195"")",Auto-generated snippet 195 demonstrating how to send HTTP request in Swift
+196,MATLAB,"// Example 196: send HTTP request in MATLAB
+// code placeholder",Auto-generated snippet 196 demonstrating how to send HTTP request in MATLAB
+197,Haskell,"// Example 197: serialize to XML in Haskell
+// code placeholder",Auto-generated snippet 197 demonstrating how to serialize to XML in Haskell
+198,Scala,"// Example 198: sort a list in Scala
+// code placeholder",Auto-generated snippet 198 demonstrating how to sort a list in Scala
+199,Dockerfile,"// Example 199: write to a file in Dockerfile
+// code placeholder",Auto-generated snippet 199 demonstrating how to write to a file in Dockerfile
+200,CSS,"// Example 200: connect to a database in CSS
+// code placeholder",Auto-generated snippet 200 demonstrating how to connect to a database in CSS
+201,CSS,"// Example 201: generate random numbers in CSS
+// code placeholder",Auto-generated snippet 201 demonstrating how to generate random numbers in CSS
+202,Clojure,"// Example 202: log an error in Clojure
+// code placeholder",Auto-generated snippet 202 demonstrating how to log an error in Clojure
+203,Bash,"// Example 203: compute factorial in Bash
+// code placeholder",Auto-generated snippet 203 demonstrating how to compute factorial in Bash
+204,C++,"// Example 204: compute factorial
+std::cout << ""Example 204"" << std::endl;",Auto-generated snippet 204 demonstrating how to compute factorial in C++
+205,PHP,"<?php
+// Example 205: convert a type
+echo 'Example 205';
+?>",Auto-generated snippet 205 demonstrating how to convert a type in PHP
+206,MATLAB,"// Example 206: perform HTTP POST in MATLAB
+// code placeholder",Auto-generated snippet 206 demonstrating how to perform HTTP POST in MATLAB
+207,Clojure,"// Example 207: parse JSON in Clojure
+// code placeholder",Auto-generated snippet 207 demonstrating how to parse JSON in Clojure
+208,Go,"// Example 208: define a function
+fmt.Println(""Example 208"")",Auto-generated snippet 208 demonstrating how to define a function in Go
+209,Julia,"// Example 209: format a string in Julia
+// code placeholder",Auto-generated snippet 209 demonstrating how to format a string in Julia
+210,PowerShell,"// Example 210: create an array in PowerShell
+// code placeholder",Auto-generated snippet 210 demonstrating how to create an array in PowerShell
+211,Elixir,"// Example 211: send HTTP request in Elixir
+// code placeholder",Auto-generated snippet 211 demonstrating how to send HTTP request in Elixir
+212,Dockerfile,"// Example 212: define a function in Dockerfile
+// code placeholder",Auto-generated snippet 212 demonstrating how to define a function in Dockerfile
+213,Dockerfile,"// Example 213: generate random numbers in Dockerfile
+// code placeholder",Auto-generated snippet 213 demonstrating how to generate random numbers in Dockerfile
+214,Lua,"// Example 214: render HTML in Lua
+// code placeholder",Auto-generated snippet 214 demonstrating how to render HTML in Lua
+215,SQL,"// Example 215: perform HTTP POST in SQL
+// code placeholder",Auto-generated snippet 215 demonstrating how to perform HTTP POST in SQL
+216,Haskell,"// Example 216: create an array in Haskell
+// code placeholder",Auto-generated snippet 216 demonstrating how to create an array in Haskell
+217,CSS,"// Example 217: create an array in CSS
+// code placeholder",Auto-generated snippet 217 demonstrating how to create an array in CSS
+218,Java,"// Example 218: connect to a database
+System.out.println(""Example 218"");",Auto-generated snippet 218 demonstrating how to connect to a database in Java
+219,CSS,"// Example 219: create an array in CSS
+// code placeholder",Auto-generated snippet 219 demonstrating how to create an array in CSS
+220,Python,"# Example 220: connect to a database
+print('Example 220')",Auto-generated snippet 220 demonstrating how to connect to a database in Python
+221,MATLAB,"// Example 221: read a file in MATLAB
+// code placeholder",Auto-generated snippet 221 demonstrating how to read a file in MATLAB
+222,SQL,"// Example 222: use recursion in SQL
+// code placeholder",Auto-generated snippet 222 demonstrating how to use recursion in SQL
+223,HTML,"// Example 223: read a file in HTML
+// code placeholder",Auto-generated snippet 223 demonstrating how to read a file in HTML
+224,JavaScript,"// Example 224: send HTTP request
+console.log('Example 224');",Auto-generated snippet 224 demonstrating how to send HTTP request in JavaScript
+225,C,"/* Example 225: perform HTTP POST */
+printf(""Example 225\n"");",Auto-generated snippet 225 demonstrating how to perform HTTP POST in C
+226,C++,"// Example 226: render HTML
+std::cout << ""Example 226"" << std::endl;",Auto-generated snippet 226 demonstrating how to render HTML in C++
+227,CSS,"// Example 227: log an error in CSS
+// code placeholder",Auto-generated snippet 227 demonstrating how to log an error in CSS
+228,Clojure,"// Example 228: convert a type in Clojure
+// code placeholder",Auto-generated snippet 228 demonstrating how to convert a type in Clojure
+229,Lua,"// Example 229: read a file in Lua
+// code placeholder",Auto-generated snippet 229 demonstrating how to read a file in Lua
+230,Rust,"// Example 230: sort a list
+println!(""Example 230"");",Auto-generated snippet 230 demonstrating how to sort a list in Rust
+231,PHP,"<?php
+// Example 231: send HTTP request
+echo 'Example 231';
+?>",Auto-generated snippet 231 demonstrating how to send HTTP request in PHP
+232,Elixir,"// Example 232: write to a file in Elixir
+// code placeholder",Auto-generated snippet 232 demonstrating how to write to a file in Elixir
+233,PHP,"<?php
+// Example 233: format a string
+echo 'Example 233';
+?>",Auto-generated snippet 233 demonstrating how to format a string in PHP
+234,Perl,"// Example 234: perform HTTP POST in Perl
+// code placeholder",Auto-generated snippet 234 demonstrating how to perform HTTP POST in Perl
+235,Elixir,"// Example 235: iterate over a list in Elixir
+// code placeholder",Auto-generated snippet 235 demonstrating how to iterate over a list in Elixir
+236,Rust,"// Example 236: define a function
+println!(""Example 236"");",Auto-generated snippet 236 demonstrating how to define a function in Rust
+237,Go,"// Example 237: define a function
+fmt.Println(""Example 237"")",Auto-generated snippet 237 demonstrating how to define a function in Go
+238,JSON,"// Example 238: generate random numbers in JSON
+// code placeholder",Auto-generated snippet 238 demonstrating how to generate random numbers in JSON
+239,Dockerfile,"// Example 239: iterate over a list in Dockerfile
+// code placeholder",Auto-generated snippet 239 demonstrating how to iterate over a list in Dockerfile
+240,JavaScript,"// Example 240: connect to a database
+console.log('Example 240');",Auto-generated snippet 240 demonstrating how to connect to a database in JavaScript
+241,PHP,"<?php
+// Example 241: iterate over a list
+echo 'Example 241';
+?>",Auto-generated snippet 241 demonstrating how to iterate over a list in PHP
+242,PowerShell,"// Example 242: use recursion in PowerShell
+// code placeholder",Auto-generated snippet 242 demonstrating how to use recursion in PowerShell
+243,TypeScript,"// Example 243: connect to a database in TypeScript
+// code placeholder",Auto-generated snippet 243 demonstrating how to connect to a database in TypeScript
+244,YAML,"// Example 244: send HTTP request in YAML
+// code placeholder",Auto-generated snippet 244 demonstrating how to send HTTP request in YAML
+245,C,"/* Example 245: create an array */
+printf(""Example 245\n"");",Auto-generated snippet 245 demonstrating how to create an array in C
+246,Lua,"// Example 246: parse JSON in Lua
+// code placeholder",Auto-generated snippet 246 demonstrating how to parse JSON in Lua
+247,Java,"// Example 247: handle exception
+System.out.println(""Example 247"");",Auto-generated snippet 247 demonstrating how to handle exception in Java
+248,C++,"// Example 248: create an array
+std::cout << ""Example 248"" << std::endl;",Auto-generated snippet 248 demonstrating how to create an array in C++
+249,YAML,"// Example 249: send HTTP request in YAML
+// code placeholder",Auto-generated snippet 249 demonstrating how to send HTTP request in YAML
+250,C#,"// Example 250: compute factorial in C#
+// code placeholder",Auto-generated snippet 250 demonstrating how to compute factorial in C#
+251,JSON,"// Example 251: render HTML in JSON
+// code placeholder",Auto-generated snippet 251 demonstrating how to render HTML in JSON
+252,Rust,"// Example 252: format a string
+println!(""Example 252"");",Auto-generated snippet 252 demonstrating how to format a string in Rust
+253,SQL,"// Example 253: define a function in SQL
+// code placeholder",Auto-generated snippet 253 demonstrating how to define a function in SQL
+254,C++,"// Example 254: perform HTTP POST
+std::cout << ""Example 254"" << std::endl;",Auto-generated snippet 254 demonstrating how to perform HTTP POST in C++
+255,Go,"// Example 255: generate random numbers
+fmt.Println(""Example 255"")",Auto-generated snippet 255 demonstrating how to generate random numbers in Go
+256,Lua,"// Example 256: log an error in Lua
+// code placeholder",Auto-generated snippet 256 demonstrating how to log an error in Lua
+257,Lua,"// Example 257: generate random numbers in Lua
+// code placeholder",Auto-generated snippet 257 demonstrating how to generate random numbers in Lua
+258,TypeScript,"// Example 258: write to a file in TypeScript
+// code placeholder",Auto-generated snippet 258 demonstrating how to write to a file in TypeScript
+259,SQL,"// Example 259: write to a file in SQL
+// code placeholder",Auto-generated snippet 259 demonstrating how to write to a file in SQL
+260,PowerShell,"// Example 260: send HTTP request in PowerShell
+// code placeholder",Auto-generated snippet 260 demonstrating how to send HTTP request in PowerShell
+261,Dockerfile,"// Example 261: perform HTTP POST in Dockerfile
+// code placeholder",Auto-generated snippet 261 demonstrating how to perform HTTP POST in Dockerfile
+262,Julia,"// Example 262: create an array in Julia
+// code placeholder",Auto-generated snippet 262 demonstrating how to create an array in Julia
+263,Scala,"// Example 263: handle exception in Scala
+// code placeholder",Auto-generated snippet 263 demonstrating how to handle exception in Scala
+264,Ruby,"# Example 264: use regex
+puts 'Example 264'",Auto-generated snippet 264 demonstrating how to use regex in Ruby
+265,MATLAB,"// Example 265: write to a file in MATLAB
+// code placeholder",Auto-generated snippet 265 demonstrating how to write to a file in MATLAB
+266,MATLAB,"// Example 266: log an error in MATLAB
+// code placeholder",Auto-generated snippet 266 demonstrating how to log an error in MATLAB
+267,Ruby,"# Example 267: render HTML
+puts 'Example 267'",Auto-generated snippet 267 demonstrating how to render HTML in Ruby
+268,TypeScript,"// Example 268: handle exception in TypeScript
+// code placeholder",Auto-generated snippet 268 demonstrating how to handle exception in TypeScript
+269,SQL,"// Example 269: use regex in SQL
+// code placeholder",Auto-generated snippet 269 demonstrating how to use regex in SQL
+270,MATLAB,"// Example 270: convert a type in MATLAB
+// code placeholder",Auto-generated snippet 270 demonstrating how to convert a type in MATLAB
+271,Haskell,"// Example 271: convert a type in Haskell
+// code placeholder",Auto-generated snippet 271 demonstrating how to convert a type in Haskell
+272,PHP,"<?php
+// Example 272: define a function
+echo 'Example 272';
+?>",Auto-generated snippet 272 demonstrating how to define a function in PHP
+273,Ruby,"# Example 273: log an error
+puts 'Example 273'",Auto-generated snippet 273 demonstrating how to log an error in Ruby
+274,Go,"// Example 274: serialize to XML
+fmt.Println(""Example 274"")",Auto-generated snippet 274 demonstrating how to serialize to XML in Go
+275,Swift,"// Example 275: format a string
+print(""Example 275"")",Auto-generated snippet 275 demonstrating how to format a string in Swift
+276,SQL,"// Example 276: use recursion in SQL
+// code placeholder",Auto-generated snippet 276 demonstrating how to use recursion in SQL
+277,Kotlin,"// Example 277: serialize to XML
+println(""Example 277"")",Auto-generated snippet 277 demonstrating how to serialize to XML in Kotlin
+278,Rust,"// Example 278: define a function
+println!(""Example 278"");",Auto-generated snippet 278 demonstrating how to define a function in Rust
+279,Swift,"// Example 279: read a file
+print(""Example 279"")",Auto-generated snippet 279 demonstrating how to read a file in Swift
+280,Bash,"// Example 280: send HTTP request in Bash
+// code placeholder",Auto-generated snippet 280 demonstrating how to send HTTP request in Bash
+281,JSON,"// Example 281: use recursion in JSON
+// code placeholder",Auto-generated snippet 281 demonstrating how to use recursion in JSON
+282,Scala,"// Example 282: serialize to XML in Scala
+// code placeholder",Auto-generated snippet 282 demonstrating how to serialize to XML in Scala
+283,Rust,"// Example 283: use recursion
+println!(""Example 283"");",Auto-generated snippet 283 demonstrating how to use recursion in Rust
+284,HTML,"// Example 284: send HTTP request in HTML
+// code placeholder",Auto-generated snippet 284 demonstrating how to send HTTP request in HTML
+285,Dockerfile,"// Example 285: compute factorial in Dockerfile
+// code placeholder",Auto-generated snippet 285 demonstrating how to compute factorial in Dockerfile
+286,Go,"// Example 286: perform HTTP POST
+fmt.Println(""Example 286"")",Auto-generated snippet 286 demonstrating how to perform HTTP POST in Go
+287,Julia,"// Example 287: compute factorial in Julia
+// code placeholder",Auto-generated snippet 287 demonstrating how to compute factorial in Julia
+288,PowerShell,"// Example 288: render HTML in PowerShell
+// code placeholder",Auto-generated snippet 288 demonstrating how to render HTML in PowerShell
+289,Perl,"// Example 289: generate random numbers in Perl
+// code placeholder",Auto-generated snippet 289 demonstrating how to generate random numbers in Perl
+290,SQL,"// Example 290: perform HTTP POST in SQL
+// code placeholder",Auto-generated snippet 290 demonstrating how to perform HTTP POST in SQL
+291,Scala,"// Example 291: render HTML in Scala
+// code placeholder",Auto-generated snippet 291 demonstrating how to render HTML in Scala
+292,Ruby,"# Example 292: connect to a database
+puts 'Example 292'",Auto-generated snippet 292 demonstrating how to connect to a database in Ruby
+293,Ruby,"# Example 293: render HTML
+puts 'Example 293'",Auto-generated snippet 293 demonstrating how to render HTML in Ruby
+294,Elixir,"// Example 294: write to a file in Elixir
+// code placeholder",Auto-generated snippet 294 demonstrating how to write to a file in Elixir
+295,JSON,"// Example 295: perform HTTP POST in JSON
+// code placeholder",Auto-generated snippet 295 demonstrating how to perform HTTP POST in JSON
+296,Julia,"// Example 296: compute factorial in Julia
+// code placeholder",Auto-generated snippet 296 demonstrating how to compute factorial in Julia
+297,Clojure,"// Example 297: read a file in Clojure
+// code placeholder",Auto-generated snippet 297 demonstrating how to read a file in Clojure
+298,Bash,"// Example 298: compute factorial in Bash
+// code placeholder",Auto-generated snippet 298 demonstrating how to compute factorial in Bash
+299,PowerShell,"// Example 299: read a file in PowerShell
+// code placeholder",Auto-generated snippet 299 demonstrating how to read a file in PowerShell
+300,Scala,"// Example 300: sort a list in Scala
+// code placeholder",Auto-generated snippet 300 demonstrating how to sort a list in Scala
+301,CSS,"// Example 301: read a file in CSS
+// code placeholder",Auto-generated snippet 301 demonstrating how to read a file in CSS
+302,Go,"// Example 302: parse JSON
+fmt.Println(""Example 302"")",Auto-generated snippet 302 demonstrating how to parse JSON in Go
+303,TypeScript,"// Example 303: render HTML in TypeScript
+// code placeholder",Auto-generated snippet 303 demonstrating how to render HTML in TypeScript
+304,Ruby,"# Example 304: perform HTTP POST
+puts 'Example 304'",Auto-generated snippet 304 demonstrating how to perform HTTP POST in Ruby
+305,HTML,"// Example 305: format a string in HTML
+// code placeholder",Auto-generated snippet 305 demonstrating how to format a string in HTML
+306,YAML,"// Example 306: send HTTP request in YAML
+// code placeholder",Auto-generated snippet 306 demonstrating how to send HTTP request in YAML
+307,PowerShell,"// Example 307: perform HTTP POST in PowerShell
+// code placeholder",Auto-generated snippet 307 demonstrating how to perform HTTP POST in PowerShell
+308,HTML,"// Example 308: create an array in HTML
+// code placeholder",Auto-generated snippet 308 demonstrating how to create an array in HTML
+309,HTML,"// Example 309: compute factorial in HTML
+// code placeholder",Auto-generated snippet 309 demonstrating how to compute factorial in HTML
+310,C#,"// Example 310: write to a file in C#
+// code placeholder",Auto-generated snippet 310 demonstrating how to write to a file in C#
+311,Julia,"// Example 311: generate random numbers in Julia
+// code placeholder",Auto-generated snippet 311 demonstrating how to generate random numbers in Julia
+312,Elixir,"// Example 312: sort a list in Elixir
+// code placeholder",Auto-generated snippet 312 demonstrating how to sort a list in Elixir
+313,Bash,"// Example 313: format a string in Bash
+// code placeholder",Auto-generated snippet 313 demonstrating how to format a string in Bash
+314,SQL,"// Example 314: handle exception in SQL
+// code placeholder",Auto-generated snippet 314 demonstrating how to handle exception in SQL
+315,SQL,"// Example 315: use recursion in SQL
+// code placeholder",Auto-generated snippet 315 demonstrating how to use recursion in SQL
+316,SQL,"// Example 316: use regex in SQL
+// code placeholder",Auto-generated snippet 316 demonstrating how to use regex in SQL
+317,Java,"// Example 317: use regex
+System.out.println(""Example 317"");",Auto-generated snippet 317 demonstrating how to use regex in Java
+318,Perl,"// Example 318: sort a list in Perl
+// code placeholder",Auto-generated snippet 318 demonstrating how to sort a list in Perl
+319,Clojure,"// Example 319: send HTTP request in Clojure
+// code placeholder",Auto-generated snippet 319 demonstrating how to send HTTP request in Clojure
+320,YAML,"// Example 320: send HTTP request in YAML
+// code placeholder",Auto-generated snippet 320 demonstrating how to send HTTP request in YAML
+321,C,"/* Example 321: serialize to XML */
+printf(""Example 321\n"");",Auto-generated snippet 321 demonstrating how to serialize to XML in C
+322,Scala,"// Example 322: parse JSON in Scala
+// code placeholder",Auto-generated snippet 322 demonstrating how to parse JSON in Scala
+323,TypeScript,"// Example 323: define a function in TypeScript
+// code placeholder",Auto-generated snippet 323 demonstrating how to define a function in TypeScript
+324,Julia,"// Example 324: compute factorial in Julia
+// code placeholder",Auto-generated snippet 324 demonstrating how to compute factorial in Julia
+325,Scala,"// Example 325: handle exception in Scala
+// code placeholder",Auto-generated snippet 325 demonstrating how to handle exception in Scala
+326,C#,"// Example 326: log an error in C#
+// code placeholder",Auto-generated snippet 326 demonstrating how to log an error in C#
+327,Dockerfile,"// Example 327: use recursion in Dockerfile
+// code placeholder",Auto-generated snippet 327 demonstrating how to use recursion in Dockerfile
+328,R,"// Example 328: create an array in R
+// code placeholder",Auto-generated snippet 328 demonstrating how to create an array in R
+329,Dockerfile,"// Example 329: render HTML in Dockerfile
+// code placeholder",Auto-generated snippet 329 demonstrating how to render HTML in Dockerfile
+330,TypeScript,"// Example 330: send HTTP request in TypeScript
+// code placeholder",Auto-generated snippet 330 demonstrating how to send HTTP request in TypeScript
+331,PowerShell,"// Example 331: perform HTTP POST in PowerShell
+// code placeholder",Auto-generated snippet 331 demonstrating how to perform HTTP POST in PowerShell
+332,Haskell,"// Example 332: create an array in Haskell
+// code placeholder",Auto-generated snippet 332 demonstrating how to create an array in Haskell
+333,Kotlin,"// Example 333: iterate over a list
+println(""Example 333"")",Auto-generated snippet 333 demonstrating how to iterate over a list in Kotlin
+334,JSON,"// Example 334: perform HTTP POST in JSON
+// code placeholder",Auto-generated snippet 334 demonstrating how to perform HTTP POST in JSON
+335,Bash,"// Example 335: generate random numbers in Bash
+// code placeholder",Auto-generated snippet 335 demonstrating how to generate random numbers in Bash
+336,Kotlin,"// Example 336: generate random numbers
+println(""Example 336"")",Auto-generated snippet 336 demonstrating how to generate random numbers in Kotlin
+337,JavaScript,"// Example 337: read a file
+console.log('Example 337');",Auto-generated snippet 337 demonstrating how to read a file in JavaScript
+338,R,"// Example 338: read a file in R
+// code placeholder",Auto-generated snippet 338 demonstrating how to read a file in R
+339,SQL,"// Example 339: render HTML in SQL
+// code placeholder",Auto-generated snippet 339 demonstrating how to render HTML in SQL
+340,Julia,"// Example 340: convert a type in Julia
+// code placeholder",Auto-generated snippet 340 demonstrating how to convert a type in Julia
+341,JSON,"// Example 341: perform HTTP POST in JSON
+// code placeholder",Auto-generated snippet 341 demonstrating how to perform HTTP POST in JSON
+342,JavaScript,"// Example 342: connect to a database
+console.log('Example 342');",Auto-generated snippet 342 demonstrating how to connect to a database in JavaScript
+343,Java,"// Example 343: iterate over a list
+System.out.println(""Example 343"");",Auto-generated snippet 343 demonstrating how to iterate over a list in Java
+344,CSS,"// Example 344: format a string in CSS
+// code placeholder",Auto-generated snippet 344 demonstrating how to format a string in CSS
+345,SQL,"// Example 345: sort a list in SQL
+// code placeholder",Auto-generated snippet 345 demonstrating how to sort a list in SQL
+346,R,"// Example 346: connect to a database in R
+// code placeholder",Auto-generated snippet 346 demonstrating how to connect to a database in R
+347,Swift,"// Example 347: log an error
+print(""Example 347"")",Auto-generated snippet 347 demonstrating how to log an error in Swift
+348,Ruby,"# Example 348: serialize to XML
+puts 'Example 348'",Auto-generated snippet 348 demonstrating how to serialize to XML in Ruby
+349,C,"/* Example 349: log an error */
+printf(""Example 349\n"");",Auto-generated snippet 349 demonstrating how to log an error in C
+350,Rust,"// Example 350: use regex
+println!(""Example 350"");",Auto-generated snippet 350 demonstrating how to use regex in Rust
+351,YAML,"// Example 351: define a function in YAML
+// code placeholder",Auto-generated snippet 351 demonstrating how to define a function in YAML
+352,Rust,"// Example 352: format a string
+println!(""Example 352"");",Auto-generated snippet 352 demonstrating how to format a string in Rust
+353,Bash,"// Example 353: convert a type in Bash
+// code placeholder",Auto-generated snippet 353 demonstrating how to convert a type in Bash
+354,C,"/* Example 354: use regex */
+printf(""Example 354\n"");",Auto-generated snippet 354 demonstrating how to use regex in C
+355,HTML,"// Example 355: connect to a database in HTML
+// code placeholder",Auto-generated snippet 355 demonstrating how to connect to a database in HTML
+356,Julia,"// Example 356: use regex in Julia
+// code placeholder",Auto-generated snippet 356 demonstrating how to use regex in Julia
+357,Haskell,"// Example 357: convert a type in Haskell
+// code placeholder",Auto-generated snippet 357 demonstrating how to convert a type in Haskell
+358,PowerShell,"// Example 358: define a function in PowerShell
+// code placeholder",Auto-generated snippet 358 demonstrating how to define a function in PowerShell
+359,C,"/* Example 359: log an error */
+printf(""Example 359\n"");",Auto-generated snippet 359 demonstrating how to log an error in C
+360,TypeScript,"// Example 360: create an array in TypeScript
+// code placeholder",Auto-generated snippet 360 demonstrating how to create an array in TypeScript
+361,Java,"// Example 361: convert a type
+System.out.println(""Example 361"");",Auto-generated snippet 361 demonstrating how to convert a type in Java
+362,Rust,"// Example 362: render HTML
+println!(""Example 362"");",Auto-generated snippet 362 demonstrating how to render HTML in Rust
+363,Haskell,"// Example 363: render HTML in Haskell
+// code placeholder",Auto-generated snippet 363 demonstrating how to render HTML in Haskell
+364,Python,"# Example 364: handle exception
+print('Example 364')",Auto-generated snippet 364 demonstrating how to handle exception in Python
+365,Java,"// Example 365: handle exception
+System.out.println(""Example 365"");",Auto-generated snippet 365 demonstrating how to handle exception in Java
+366,Haskell,"// Example 366: compute factorial in Haskell
+// code placeholder",Auto-generated snippet 366 demonstrating how to compute factorial in Haskell
+367,Julia,"// Example 367: handle exception in Julia
+// code placeholder",Auto-generated snippet 367 demonstrating how to handle exception in Julia
+368,Julia,"// Example 368: handle exception in Julia
+// code placeholder",Auto-generated snippet 368 demonstrating how to handle exception in Julia
+369,Julia,"// Example 369: create an array in Julia
+// code placeholder",Auto-generated snippet 369 demonstrating how to create an array in Julia
+370,JSON,"// Example 370: parse JSON in JSON
+// code placeholder",Auto-generated snippet 370 demonstrating how to parse JSON in JSON
+371,MATLAB,"// Example 371: connect to a database in MATLAB
+// code placeholder",Auto-generated snippet 371 demonstrating how to connect to a database in MATLAB
+372,Elixir,"// Example 372: perform HTTP POST in Elixir
+// code placeholder",Auto-generated snippet 372 demonstrating how to perform HTTP POST in Elixir
+373,Dockerfile,"// Example 373: read a file in Dockerfile
+// code placeholder",Auto-generated snippet 373 demonstrating how to read a file in Dockerfile
+374,MATLAB,"// Example 374: define a function in MATLAB
+// code placeholder",Auto-generated snippet 374 demonstrating how to define a function in MATLAB
+375,Dockerfile,"// Example 375: write to a file in Dockerfile
+// code placeholder",Auto-generated snippet 375 demonstrating how to write to a file in Dockerfile
+376,Haskell,"// Example 376: create an array in Haskell
+// code placeholder",Auto-generated snippet 376 demonstrating how to create an array in Haskell
+377,Haskell,"// Example 377: serialize to XML in Haskell
+// code placeholder",Auto-generated snippet 377 demonstrating how to serialize to XML in Haskell
+378,Perl,"// Example 378: read a file in Perl
+// code placeholder",Auto-generated snippet 378 demonstrating how to read a file in Perl
+379,PowerShell,"// Example 379: connect to a database in PowerShell
+// code placeholder",Auto-generated snippet 379 demonstrating how to connect to a database in PowerShell
+380,Perl,"// Example 380: read a file in Perl
+// code placeholder",Auto-generated snippet 380 demonstrating how to read a file in Perl
+381,R,"// Example 381: log an error in R
+// code placeholder",Auto-generated snippet 381 demonstrating how to log an error in R
+382,Haskell,"// Example 382: connect to a database in Haskell
+// code placeholder",Auto-generated snippet 382 demonstrating how to connect to a database in Haskell
+383,CSS,"// Example 383: render HTML in CSS
+// code placeholder",Auto-generated snippet 383 demonstrating how to render HTML in CSS
+384,Bash,"// Example 384: handle exception in Bash
+// code placeholder",Auto-generated snippet 384 demonstrating how to handle exception in Bash
+385,C,"/* Example 385: serialize to XML */
+printf(""Example 385\n"");",Auto-generated snippet 385 demonstrating how to serialize to XML in C
+386,Scala,"// Example 386: use recursion in Scala
+// code placeholder",Auto-generated snippet 386 demonstrating how to use recursion in Scala
+387,Rust,"// Example 387: format a string
+println!(""Example 387"");",Auto-generated snippet 387 demonstrating how to format a string in Rust
+388,Go,"// Example 388: use recursion
+fmt.Println(""Example 388"")",Auto-generated snippet 388 demonstrating how to use recursion in Go
+389,MATLAB,"// Example 389: generate random numbers in MATLAB
+// code placeholder",Auto-generated snippet 389 demonstrating how to generate random numbers in MATLAB
+390,JSON,"// Example 390: send HTTP request in JSON
+// code placeholder",Auto-generated snippet 390 demonstrating how to send HTTP request in JSON
+391,Ruby,"# Example 391: read a file
+puts 'Example 391'",Auto-generated snippet 391 demonstrating how to read a file in Ruby
+392,Haskell,"// Example 392: log an error in Haskell
+// code placeholder",Auto-generated snippet 392 demonstrating how to log an error in Haskell
+393,SQL,"// Example 393: render HTML in SQL
+// code placeholder",Auto-generated snippet 393 demonstrating how to render HTML in SQL
+394,Julia,"// Example 394: use recursion in Julia
+// code placeholder",Auto-generated snippet 394 demonstrating how to use recursion in Julia
+395,Bash,"// Example 395: write to a file in Bash
+// code placeholder",Auto-generated snippet 395 demonstrating how to write to a file in Bash
+396,Java,"// Example 396: convert a type
+System.out.println(""Example 396"");",Auto-generated snippet 396 demonstrating how to convert a type in Java
+397,C++,"// Example 397: generate random numbers
+std::cout << ""Example 397"" << std::endl;",Auto-generated snippet 397 demonstrating how to generate random numbers in C++
+398,Swift,"// Example 398: use regex
+print(""Example 398"")",Auto-generated snippet 398 demonstrating how to use regex in Swift
+399,JavaScript,"// Example 399: serialize to XML
+console.log('Example 399');",Auto-generated snippet 399 demonstrating how to serialize to XML in JavaScript
+400,C,"/* Example 400: send HTTP request */
+printf(""Example 400\n"");",Auto-generated snippet 400 demonstrating how to send HTTP request in C
+401,YAML,"// Example 401: sort a list in YAML
+// code placeholder",Auto-generated snippet 401 demonstrating how to sort a list in YAML
+402,YAML,"// Example 402: sort a list in YAML
+// code placeholder",Auto-generated snippet 402 demonstrating how to sort a list in YAML
+403,JSON,"// Example 403: serialize to XML in JSON
+// code placeholder",Auto-generated snippet 403 demonstrating how to serialize to XML in JSON
+404,MATLAB,"// Example 404: generate random numbers in MATLAB
+// code placeholder",Auto-generated snippet 404 demonstrating how to generate random numbers in MATLAB
+405,Julia,"// Example 405: send HTTP request in Julia
+// code placeholder",Auto-generated snippet 405 demonstrating how to send HTTP request in Julia
+406,Clojure,"// Example 406: generate random numbers in Clojure
+// code placeholder",Auto-generated snippet 406 demonstrating how to generate random numbers in Clojure
+407,Swift,"// Example 407: log an error
+print(""Example 407"")",Auto-generated snippet 407 demonstrating how to log an error in Swift
+408,TypeScript,"// Example 408: perform HTTP POST in TypeScript
+// code placeholder",Auto-generated snippet 408 demonstrating how to perform HTTP POST in TypeScript
+409,Julia,"// Example 409: parse JSON in Julia
+// code placeholder",Auto-generated snippet 409 demonstrating how to parse JSON in Julia
+410,Swift,"// Example 410: format a string
+print(""Example 410"")",Auto-generated snippet 410 demonstrating how to format a string in Swift
+411,PowerShell,"// Example 411: convert a type in PowerShell
+// code placeholder",Auto-generated snippet 411 demonstrating how to convert a type in PowerShell
+412,R,"// Example 412: handle exception in R
+// code placeholder",Auto-generated snippet 412 demonstrating how to handle exception in R
+413,C++,"// Example 413: log an error
+std::cout << ""Example 413"" << std::endl;",Auto-generated snippet 413 demonstrating how to log an error in C++
+414,Ruby,"# Example 414: handle exception
+puts 'Example 414'",Auto-generated snippet 414 demonstrating how to handle exception in Ruby
+415,Clojure,"// Example 415: define a function in Clojure
+// code placeholder",Auto-generated snippet 415 demonstrating how to define a function in Clojure
+416,HTML,"// Example 416: convert a type in HTML
+// code placeholder",Auto-generated snippet 416 demonstrating how to convert a type in HTML
+417,PowerShell,"// Example 417: serialize to XML in PowerShell
+// code placeholder",Auto-generated snippet 417 demonstrating how to serialize to XML in PowerShell
+418,MATLAB,"// Example 418: use regex in MATLAB
+// code placeholder",Auto-generated snippet 418 demonstrating how to use regex in MATLAB
+419,Haskell,"// Example 419: define a function in Haskell
+// code placeholder",Auto-generated snippet 419 demonstrating how to define a function in Haskell
+420,HTML,"// Example 420: write to a file in HTML
+// code placeholder",Auto-generated snippet 420 demonstrating how to write to a file in HTML
+421,YAML,"// Example 421: read a file in YAML
+// code placeholder",Auto-generated snippet 421 demonstrating how to read a file in YAML
+422,Scala,"// Example 422: use recursion in Scala
+// code placeholder",Auto-generated snippet 422 demonstrating how to use recursion in Scala
+423,C++,"// Example 423: generate random numbers
+std::cout << ""Example 423"" << std::endl;",Auto-generated snippet 423 demonstrating how to generate random numbers in C++
+424,HTML,"// Example 424: convert a type in HTML
+// code placeholder",Auto-generated snippet 424 demonstrating how to convert a type in HTML
+425,Haskell,"// Example 425: format a string in Haskell
+// code placeholder",Auto-generated snippet 425 demonstrating how to format a string in Haskell
+426,Python,"# Example 426: format a string
+print('Example 426')",Auto-generated snippet 426 demonstrating how to format a string in Python
+427,TypeScript,"// Example 427: format a string in TypeScript
+// code placeholder",Auto-generated snippet 427 demonstrating how to format a string in TypeScript
+428,SQL,"// Example 428: write to a file in SQL
+// code placeholder",Auto-generated snippet 428 demonstrating how to write to a file in SQL
+429,JavaScript,"// Example 429: render HTML
+console.log('Example 429');",Auto-generated snippet 429 demonstrating how to render HTML in JavaScript
+430,Rust,"// Example 430: generate random numbers
+println!(""Example 430"");",Auto-generated snippet 430 demonstrating how to generate random numbers in Rust
+431,YAML,"// Example 431: iterate over a list in YAML
+// code placeholder",Auto-generated snippet 431 demonstrating how to iterate over a list in YAML
+432,Julia,"// Example 432: render HTML in Julia
+// code placeholder",Auto-generated snippet 432 demonstrating how to render HTML in Julia
+433,TypeScript,"// Example 433: format a string in TypeScript
+// code placeholder",Auto-generated snippet 433 demonstrating how to format a string in TypeScript
+434,Elixir,"// Example 434: connect to a database in Elixir
+// code placeholder",Auto-generated snippet 434 demonstrating how to connect to a database in Elixir
+435,Lua,"// Example 435: convert a type in Lua
+// code placeholder",Auto-generated snippet 435 demonstrating how to convert a type in Lua
+436,R,"// Example 436: handle exception in R
+// code placeholder",Auto-generated snippet 436 demonstrating how to handle exception in R
+437,Swift,"// Example 437: send HTTP request
+print(""Example 437"")",Auto-generated snippet 437 demonstrating how to send HTTP request in Swift
+438,PHP,"<?php
+// Example 438: write to a file
+echo 'Example 438';
+?>",Auto-generated snippet 438 demonstrating how to write to a file in PHP
+439,Julia,"// Example 439: log an error in Julia
+// code placeholder",Auto-generated snippet 439 demonstrating how to log an error in Julia
+440,PowerShell,"// Example 440: generate random numbers in PowerShell
+// code placeholder",Auto-generated snippet 440 demonstrating how to generate random numbers in PowerShell
+441,Swift,"// Example 441: iterate over a list
+print(""Example 441"")",Auto-generated snippet 441 demonstrating how to iterate over a list in Swift
+442,Kotlin,"// Example 442: log an error
+println(""Example 442"")",Auto-generated snippet 442 demonstrating how to log an error in Kotlin
+443,TypeScript,"// Example 443: convert a type in TypeScript
+// code placeholder",Auto-generated snippet 443 demonstrating how to convert a type in TypeScript
+444,Julia,"// Example 444: create an array in Julia
+// code placeholder",Auto-generated snippet 444 demonstrating how to create an array in Julia
+445,JSON,"// Example 445: write to a file in JSON
+// code placeholder",Auto-generated snippet 445 demonstrating how to write to a file in JSON
+446,TypeScript,"// Example 446: convert a type in TypeScript
+// code placeholder",Auto-generated snippet 446 demonstrating how to convert a type in TypeScript
+447,Julia,"// Example 447: render HTML in Julia
+// code placeholder",Auto-generated snippet 447 demonstrating how to render HTML in Julia
+448,JavaScript,"// Example 448: create an array
+console.log('Example 448');",Auto-generated snippet 448 demonstrating how to create an array in JavaScript
+449,Elixir,"// Example 449: log an error in Elixir
+// code placeholder",Auto-generated snippet 449 demonstrating how to log an error in Elixir
+450,Lua,"// Example 450: define a function in Lua
+// code placeholder",Auto-generated snippet 450 demonstrating how to define a function in Lua
+451,Go,"// Example 451: use regex
+fmt.Println(""Example 451"")",Auto-generated snippet 451 demonstrating how to use regex in Go
+452,C,"/* Example 452: send HTTP request */
+printf(""Example 452\n"");",Auto-generated snippet 452 demonstrating how to send HTTP request in C
+453,Go,"// Example 453: read a file
+fmt.Println(""Example 453"")",Auto-generated snippet 453 demonstrating how to read a file in Go
+454,Julia,"// Example 454: read a file in Julia
+// code placeholder",Auto-generated snippet 454 demonstrating how to read a file in Julia
+455,C#,"// Example 455: compute factorial in C#
+// code placeholder",Auto-generated snippet 455 demonstrating how to compute factorial in C#
+456,Perl,"// Example 456: render HTML in Perl
+// code placeholder",Auto-generated snippet 456 demonstrating how to render HTML in Perl
+457,SQL,"// Example 457: use regex in SQL
+// code placeholder",Auto-generated snippet 457 demonstrating how to use regex in SQL
+458,JSON,"// Example 458: render HTML in JSON
+// code placeholder",Auto-generated snippet 458 demonstrating how to render HTML in JSON
+459,Dockerfile,"// Example 459: format a string in Dockerfile
+// code placeholder",Auto-generated snippet 459 demonstrating how to format a string in Dockerfile
+460,Lua,"// Example 460: create an array in Lua
+// code placeholder",Auto-generated snippet 460 demonstrating how to create an array in Lua
+461,Bash,"// Example 461: render HTML in Bash
+// code placeholder",Auto-generated snippet 461 demonstrating how to render HTML in Bash
+462,Ruby,"# Example 462: perform HTTP POST
+puts 'Example 462'",Auto-generated snippet 462 demonstrating how to perform HTTP POST in Ruby
+463,Go,"// Example 463: sort a list
+fmt.Println(""Example 463"")",Auto-generated snippet 463 demonstrating how to sort a list in Go
+464,Clojure,"// Example 464: read a file in Clojure
+// code placeholder",Auto-generated snippet 464 demonstrating how to read a file in Clojure
+465,MATLAB,"// Example 465: parse JSON in MATLAB
+// code placeholder",Auto-generated snippet 465 demonstrating how to parse JSON in MATLAB
+466,Kotlin,"// Example 466: perform HTTP POST
+println(""Example 466"")",Auto-generated snippet 466 demonstrating how to perform HTTP POST in Kotlin
+467,Haskell,"// Example 467: create an array in Haskell
+// code placeholder",Auto-generated snippet 467 demonstrating how to create an array in Haskell
+468,Dockerfile,"// Example 468: define a function in Dockerfile
+// code placeholder",Auto-generated snippet 468 demonstrating how to define a function in Dockerfile
+469,R,"// Example 469: define a function in R
+// code placeholder",Auto-generated snippet 469 demonstrating how to define a function in R
+470,C,"/* Example 470: convert a type */
+printf(""Example 470\n"");",Auto-generated snippet 470 demonstrating how to convert a type in C
+471,JSON,"// Example 471: use recursion in JSON
+// code placeholder",Auto-generated snippet 471 demonstrating how to use recursion in JSON
+472,Clojure,"// Example 472: write to a file in Clojure
+// code placeholder",Auto-generated snippet 472 demonstrating how to write to a file in Clojure
+473,Julia,"// Example 473: read a file in Julia
+// code placeholder",Auto-generated snippet 473 demonstrating how to read a file in Julia
+474,SQL,"// Example 474: handle exception in SQL
+// code placeholder",Auto-generated snippet 474 demonstrating how to handle exception in SQL
+475,CSS,"// Example 475: serialize to XML in CSS
+// code placeholder",Auto-generated snippet 475 demonstrating how to serialize to XML in CSS
+476,Kotlin,"// Example 476: use recursion
+println(""Example 476"")",Auto-generated snippet 476 demonstrating how to use recursion in Kotlin
+477,Julia,"// Example 477: sort a list in Julia
+// code placeholder",Auto-generated snippet 477 demonstrating how to sort a list in Julia
+478,Lua,"// Example 478: format a string in Lua
+// code placeholder",Auto-generated snippet 478 demonstrating how to format a string in Lua
+479,Java,"// Example 479: write to a file
+System.out.println(""Example 479"");",Auto-generated snippet 479 demonstrating how to write to a file in Java
+480,Elixir,"// Example 480: iterate over a list in Elixir
+// code placeholder",Auto-generated snippet 480 demonstrating how to iterate over a list in Elixir
+481,YAML,"// Example 481: serialize to XML in YAML
+// code placeholder",Auto-generated snippet 481 demonstrating how to serialize to XML in YAML
+482,Bash,"// Example 482: use regex in Bash
+// code placeholder",Auto-generated snippet 482 demonstrating how to use regex in Bash
+483,Elixir,"// Example 483: render HTML in Elixir
+// code placeholder",Auto-generated snippet 483 demonstrating how to render HTML in Elixir
+484,Lua,"// Example 484: convert a type in Lua
+// code placeholder",Auto-generated snippet 484 demonstrating how to convert a type in Lua
+485,CSS,"// Example 485: compute factorial in CSS
+// code placeholder",Auto-generated snippet 485 demonstrating how to compute factorial in CSS
+486,HTML,"// Example 486: define a function in HTML
+// code placeholder",Auto-generated snippet 486 demonstrating how to define a function in HTML
+487,C#,"// Example 487: serialize to XML in C#
+// code placeholder",Auto-generated snippet 487 demonstrating how to serialize to XML in C#
+488,PowerShell,"// Example 488: write to a file in PowerShell
+// code placeholder",Auto-generated snippet 488 demonstrating how to write to a file in PowerShell
+489,C#,"// Example 489: use recursion in C#
+// code placeholder",Auto-generated snippet 489 demonstrating how to use recursion in C#
+490,Dockerfile,"// Example 490: send HTTP request in Dockerfile
+// code placeholder",Auto-generated snippet 490 demonstrating how to send HTTP request in Dockerfile
+491,PHP,"<?php
+// Example 491: define a function
+echo 'Example 491';
+?>",Auto-generated snippet 491 demonstrating how to define a function in PHP
+492,Ruby,"# Example 492: sort a list
+puts 'Example 492'",Auto-generated snippet 492 demonstrating how to sort a list in Ruby
+493,Kotlin,"// Example 493: perform HTTP POST
+println(""Example 493"")",Auto-generated snippet 493 demonstrating how to perform HTTP POST in Kotlin
+494,Java,"// Example 494: connect to a database
+System.out.println(""Example 494"");",Auto-generated snippet 494 demonstrating how to connect to a database in Java
+495,Elixir,"// Example 495: send HTTP request in Elixir
+// code placeholder",Auto-generated snippet 495 demonstrating how to send HTTP request in Elixir
+496,Go,"// Example 496: format a string
+fmt.Println(""Example 496"")",Auto-generated snippet 496 demonstrating how to format a string in Go
+497,Dockerfile,"// Example 497: create an array in Dockerfile
+// code placeholder",Auto-generated snippet 497 demonstrating how to create an array in Dockerfile
+498,JSON,"// Example 498: compute factorial in JSON
+// code placeholder",Auto-generated snippet 498 demonstrating how to compute factorial in JSON
+499,HTML,"// Example 499: use regex in HTML
+// code placeholder",Auto-generated snippet 499 demonstrating how to use regex in HTML
+500,Dockerfile,"// Example 500: compute factorial in Dockerfile
+// code placeholder",Auto-generated snippet 500 demonstrating how to compute factorial in Dockerfile

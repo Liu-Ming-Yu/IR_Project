@@ -1,0 +1,228 @@
+id,language,snippet,description
+1,Python,dict_of_pairs = dict(list_of_tuples),Convert list of tuples to dict
+2,C++,"vector<int> mergeSorted(const vector<int>& a, const vector<int>& b) {
+    int i=0,j=0; vector<int> res;
+    while(i<a.size() && j<b.size()){
+        if(a[i]<b[j]) res.push_back(a[i++]); else res.push_back(b[j++]);
+    }
+    while(i<a.size()) res.push_back(a[i++]);
+    while(j<b.size()) res.push_back(b[j++]);
+    return res;
+}",Merge two sorted arrays
+3,Java,"ObjectMapper mapper = new ObjectMapper();
+Map<String,Object> map = mapper.readValue(
+    new File(""data.json""),
+    new TypeReference<Map<String,Object>>(){}
+);",Read JSON file using Jackson
+4,Python,"import re
+numbers = re.findall(r""\d+"", my_string)",Find all numbers in string with regex
+5,Swift,"let formatter = DateFormatter()
+formatter.dateFormat = ""yyyy-MM-dd""
+let dateString = formatter.string(from: Date())",Format Date object in Swift
+6,JavaScript,const uniqueArray = [...new Set(originalArray)];,Remove duplicates from array using Set
+7,Python,"def binary_search(arr, x):
+    low, high = 0, len(arr)-1
+    while low <= high:
+        mid = (low + high)//2
+        if arr[mid] == x:
+            return mid
+        elif arr[mid] < x:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return -1",Implement binary search in Python
+8,C,"void deleteNode(Node** head_ref, int key) {
+    Node* temp = *head_ref, *prev;
+    if (temp != NULL && temp->data == key) {
+        *head_ref = temp->next;
+        free(temp);
+        return;
+    }
+    while (temp != NULL && temp->data != key) {
+        prev = temp;
+        temp = temp->next;
+    }
+    if (temp == NULL) return;
+    prev->next = temp->next;
+    free(temp);
+}",Delete node by key in C linked list
+9,CSS,".parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}",Center a div horizontally and vertically with flexbox
+10,PHP,"$pdo = new PDO(""mysql:host=$host;dbname=$db"", $user, $pass);
+$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);",Connect to MySQL with PDO
+11,Python,squares = [x*x for x in range(10)],Generate list of squares using list comprehension
+12,Python,"import pandas as pd
+df = pd.read_csv('file.csv')",Read CSV into pandas DataFrame
+13,Python,"try:
+    # code
+except Exception as e:
+    print(e)",Basic exception handling in Python
+14,JavaScript,"fetch('url')
+  .then(res => res.json())
+  .catch(err => console.error(err))",Fetch JSON data with fetch API
+15,JavaScript,"async function getData() {
+  try {
+    const res = await fetch('url');
+    return await res.json();
+  } catch (e) {
+    console.error(e);
+  }
+}",Async/Await fetch example
+16,Java,"Thread thread = new Thread(() -> {
+    System.out.println(""Hello from thread"");
+});
+thread.start();",Create and start a Java thread
+17,Java,"List<String> list = new ArrayList<>();
+Collections.sort(list);",Sort a list in Java
+18,C++,std::unique_ptr<MyClass> ptr = std::make_unique<MyClass>();,Create smart pointer with make_unique in C++
+19,C++,"template<typename T>
+T add(T a, T b) { return a + b; }",Template function example in C++
+20,Ruby,"numbers = [1,2,3]
+squares = numbers.map { |n| n*n }",Map block example in Ruby
+21,Ruby,"begin
+  # code
+rescue => e
+  puts e.message
+end",Exception handling in Ruby
+22,Go,"go func() {
+    fmt.Println(""Hello, Goroutine"")
+}()",Launch a goroutine in Go
+23,Go,"ch := make(chan int)
+ch <- 1
+val := <-ch",Basic channel send/receive in Go
+24,Rust,"let s = String::from(""hello"");
+println!(""{}"", s);",Create and print a String in Rust
+25,Rust,"match opt {
+    Some(x) => println!(""{}"", x),
+    None => println!(""none""),
+}",Pattern matching with Option in Rust
+26,SQL,"SELECT a.col, b.col FROM table1 a JOIN table2 b ON a.id = b.id;",Inner join example in SQL
+27,SQL,"SELECT col, COUNT(*) FROM table GROUP BY col;",Group by aggregation in SQL
+28,Bash,"find . -type f -name ""*.py"" | xargs grep ""def""",Find Python functions via find and grep
+29,Bash,"for file in *.txt; do echo ""$file""; done",Loop over files in Bash
+30,HTML,"<img src=""image.png"" alt=""My Image"" />",Embed image in HTML
+31,HTML,"<meta name=""viewport"" content=""width=device-width, initial-scale=1"">",Responsive meta tag
+32,CSS,@media (max-width: 600px) { .container { width: 100%; } },Responsive CSS media query
+33,Kotlin,"fun String.isEmail(): Boolean {
+    return this.contains(""@"")
+}",Extension function in Kotlin
+34,Kotlin,"val name: String? = null
+println(name ?: ""Unknown"")",Null safety with Elvis operator in Kotlin
+35,PHP,"<?php
+function greet($name) { return ""Hello, $name""; }
+?>",Define a function in PHP
+36,PHP,"$array = array_map('trim', $arr);",Use array_map in PHP
+37,MATLAB,"x = linspace(0, 2*pi, 100);
+y = sin(x);
+plot(x, y);",Plot sine wave in MATLAB
+38,R,"library(ggplot2)
+qplot(x, y, data = df, geom = 'point')",Simple scatter plot with ggplot2 in R
+39,TypeScript,interface User { id: number; name: string; },Define interface in TypeScript
+40,TypeScript,"function sum(a: number, b: number): number { return a + b; }",Typed function in TypeScript
+41,Shell,alias ll='ls -la',Create alias in shell
+42,YAML,"name: MyApp
+version: 1.0.0
+dependencies:
+  - lib",Basic YAML structure
+43,JSON,"{ ""name"": ""Alice"", ""age"": 30 }",Basic JSON object
+44,Dockerfile,"FROM python:3.8-slim
+COPY . /app
+CMD ['python','app.py']",Simple Dockerfile for Python app
+45,Makefile,"build:
+	gcc main.c -o main",Makefile target example
+46,XML,<note><to>User</to><from>System</from></note>,Simple XML document
+47,YAML,"- name: Install package
+  apt:
+    name: nginx
+    state: present",Ansible task example
+48,PowerShell,Get-Process | Where-Object { $_.CPU -gt 100 },Filter processes in PowerShell
+49,Scala,"val nums = List(1,2,3)
+val doubled = nums.map(_ * 2)",Map on list in Scala
+50,Shell,sed -i 's/foo/bar/g' file.txt,In-place replace with sed
+51,C#,"var list = new List<int> {1,2,3};
+list.ForEach(i => Console.WriteLine(i));",Iterate over List in C#
+52,C#,"using(var conn = new SqlConnection(connString)) {
+    conn.Open();
+}",Open SQL connection in C#
+53,F#,let squares = [ for x in 1..10 -> x * x ],List comprehension in F#
+54,Haskell,squares = [x * x | x <- [1..10]],List comprehension in Haskell
+55,Perl,"my @nums = (1..5);
+print map { $_ * 2 } @nums;",Map approach in Perl
+56,Lua,"for i=1,10 do
+  print(i)
+end",Basic loop in Lua
+57,Dart,"var l = [1,2,3];
+l.forEach((i) => print(i));",Iterate list in Dart
+58,Dart,"Future<String> fetchData() async {
+  return 'data';
+}",Async function in Dart
+59,Elixir,"Enum.map([1,2,3], fn x -> x * 2 end)",Map in Elixir
+60,Erlang,"lists:map(fun(X) -> X*2 end, [1,2,3]).",Map in Erlang
+61,Groovy,"def list = [1,2,3]
+list.collect { it * 2 }",Collect method in Groovy
+62,Objective-C,"NSArray *arr = @[@1, @2, @3];
+for (NSNumber *n in arr) { NSLog(@""%@"", n); }",Iterate NSArray in Objective-C
+63,Objective-C,"NSURL *url = [NSURL URLWithString:@""https://example.com""];",Create NSURL in Obj-C
+64,VHDL,"signal clk : std_logic;
+clk <= not clk after 10 ns;",Clock toggling in VHDL
+65,Verilog,always #5 clk = ~clk;,Clock generation in Verilog
+66,Shell,tar -czvf archive.tar.gz /path/to/dir,Compress directory with tar
+67,PowerShell,Get-Service | Where-Object Status -eq 'Running',Filter running services in PowerShell
+68,SQL,"CREATE TABLE users (id INT PRIMARY KEY, name VARCHAR(50));",SQL create table
+69,SQL,ALTER TABLE users ADD COLUMN email VARCHAR(100);,SQL alter table example
+70,JavaScript,"const obj = {a:1, b:2};
+const clone = {...obj};",Clone object with spread operator
+71,JavaScript,"const delay = ms => new Promise(resolve => setTimeout(resolve, ms));",Promise-based delay function
+72,Python,"from collections import Counter
+counts = Counter(my_list)",Count occurrences in list with Counter
+73,Python,"with open('file.txt') as f:
+    content = f.read()",Read entire file using context manager
+74,Go,"err := json.Unmarshal(data, &myStruct)
+if err != nil { log.Fatal(err) }",Unmarshal JSON in Go
+75,Go,"http.HandleFunc(""/"", func(w http.ResponseWriter, r *http.Request) {
+    fmt.Fprintln(w, ""Hello"")
+})",Basic HTTP handler in Go
+76,Ruby,3.times { |i| puts i },times iterator in Ruby
+77,Ruby,"gem 'rails', '~>6.1'",Specify Rails version in Gemfile
+78,Kotlin,"data class User(val id: Int, val name: String)",Data class in Kotlin
+79,Kotlin,"println(""Hello ${name}"")",String template in Kotlin
+80,Shell,chmod +x script.sh,Make shell script executable
+81,Julia,squares = [x^2 for x in 1:10],List comprehension in Julia
+82,Julia,"using DataFrames
+df = DataFrame(A=1:4, B=4:-1:1)",Create DataFrame in Julia
+83,Elm,sumList xs = List.foldl (+) 0 xs,Sum list with foldl in Elm
+84,Elm,"import Browser
+main = Browser.sandbox { init = model, update = update, view = view }",Simple Elm Browser app
+85,Prolog,"member(X, [X|_]).
+member(X, [_|T]) :- member(X, T).",Define member predicate in Prolog
+86,Lisp,(defun square (x) (* x x)),Define function in Common Lisp
+87,Clojure,(map #(* % %) [1 2 3]),Map anonymous function in Clojure
+88,OCaml,let rec factorial n = if n <= 1 then 1 else n * factorial (n-1),Recursive factorial in OCaml
+89,Fortran,"program hello
+ print *, 'Hello, world!'
+end program hello",Hello world in Fortran
+90,COBOL,"IDENTIFICATION DIVISION.
+PROGRAM-ID. Hello.
+PROCEDURE DIVISION.
+DISPLAY 'Hello, world!'.",Hello world in COBOL
+91,GLSL,"void main() {
+ gl_FragColor = vec4(1.0);
+}",Basic fragment shader in GLSL
+92,Terraform,"resource ""aws_s3_bucket"" ""b"" {
+  bucket = ""my-bucket""
+}",Terraform AWS S3 bucket resource
+93,GraphQL,type Query { hello: String },GraphQL schema definition
+94,Dockerfile,EXPOSE 8080,Expose port in Dockerfile
+95,Makefile,"clean:
+	rm -f *.o main",Makefile clean target
+96,Shell,rsync -avz source/ dest/,Use rsync for syncing directories
+97,PowerShell,New-Item -Path 'test.txt' -ItemType File,Create file in PowerShell
+98,SQL,CREATE INDEX idx_name ON table(column);,Create index in SQL
+99,JSON,"""dependencies"": { ""express"": ""^4.17.1"" }",Package.json dependency entry
+100,YAML,"version: '3'
+services:
+  app:
+    image: myapp",Docker Compose YAML
